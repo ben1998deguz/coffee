@@ -1,0 +1,73 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.navbar img {
+  height: 100px;
+  width: 100px;
+}
+
+.navbar .navbar-collapse {
+  font-size: 25px;
+  font-family: sans-serif;
+}
+
+.nav-item {
+  margin-right: 10px;
+}
+
+.nav-item:hover {
+  background: red;
+  color: white;
+  border-radius: 10px;
+}
+
+.carouser {
+  height: 600px;
+}
+
+.carousel-inner {
+  height: 600px;
+}
+
+.col-sm-6 {
+  height: 100%;
+}
+
+.card {
+  margin: 30px;
+  height: 50%;
+  border: none !important;
+}
+
+a {
+  text-decoration: none !important;
+}
+
+.card a {
+  color: brown;
+}
+
+.card a:hover {
+  color: gray;
+}
+
+.card img {
+  width: 60%;
+  height: 70%;
+}
+
+.modal-body img {
+  width: 100%;
+}
+
+.footer {
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  height: 100px;
+  background-color: gray;
+  color: white;
+  text-align: center;
+}
